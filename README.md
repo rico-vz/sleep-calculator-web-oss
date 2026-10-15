@@ -1,6 +1,10 @@
 
 # Sleep Calculator Project
 
+> **Archived.** This is the final public snapshot of [SleepUtility](https://sleeputility.com). Development continues in a private repository; this repo is read-only and no longer maintained.
+>
+> No license is granted: all rights reserved. You may view the source, but not copy, modify, or redistribute it.
+
 Web application for calculating optimal sleep schedule.
 
 ## Prerequisites
